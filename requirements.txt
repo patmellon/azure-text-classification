@@ -1,5 +1,8 @@
 azure-ai-textanalytics==5.1.0
+azure-storage-blob
 jupyterlab
 numpy
 pandas
 python-dotenv
+textblob
+wordcloud
